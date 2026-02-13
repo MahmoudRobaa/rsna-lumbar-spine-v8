@@ -1,0 +1,4 @@
+some solutions discards class and its accuracy remains 0 over the epochs, while others changes
+also i want to make the model more robust to the class imbalance, so i tried to use weighted random sampler, but it didn't work as expected,    
+also i want detailed architectural overview and pipeline , so i can developt each part and try to reach the best performance
+i gave you the results of every version so it should be feasible to compare and detect mutual problems 
